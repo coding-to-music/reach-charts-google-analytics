@@ -16,6 +16,7 @@ https://github.com/KaterinaLupacheva/react-google-analytics-dashboard
 
 ```java
   const CLIENT_ID = process.env.REACT_APP_CLIENT_ID;
+  process.env.PUBLIC_URL
 ```
 
 ## GitHub
