@@ -1,3 +1,36 @@
+# react-charts-google-analytics
+
+# 🚀 Javascript full-stack 🚀
+
+https://github.com/coding-to-music/react-charts-google-analytics
+
+https://react-charts-google-analytics.vercel.app
+
+by Katerina Lupacheva / Katsiaryna Lupachova https://github.com/KaterinaLupacheva
+
+https://ramonak.io/react-google-analytics-dashboard (not found, no demo)
+
+https://github.com/KaterinaLupacheva/react-google-analytics-dashboard
+
+## Environment Values
+
+```java
+  const CLIENT_ID = process.env.REACT_APP_CLIENT_ID;
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/react-charts-google-analytics.git
+git push -u origin main
+vercel --prod --confirm
+```
+
 # Custom Google Analytics Dashboard
 
 Source code for the blog post [How to develop a custom Google Analytics Dashboard using Google Analytics Reporting API v4 and React.js](https://ramonak.io/posts/react-google-analytics-dashboard).
